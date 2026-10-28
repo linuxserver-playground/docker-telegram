@@ -7,9 +7,8 @@ summary: '[Telegram](https://telegram.org/) is a cloud-based mobile and desktop 
 upstream:
   url: https://telegram.org/
   version:
-    type: command
-    run: |-
-      curl -sL https://mirror.rackspace.com/archlinux/extra/os/x86_64/extra.db | tar tzf - | awk -F '(-|/)' '/telegram-desktop/ {print $3; exit}'
+    type: arch_package
+    package: telegram-desktop
 
 release:
   branch: master
