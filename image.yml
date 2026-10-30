@@ -9,6 +9,10 @@ upstream:
   version:
     type: arch_package
     package: telegram-desktop
+  notes:
+    type: github_release
+    repo: telegramdesktop/tdesktop
+    tag: v${VERSION}
 
 release:
   branch: master
