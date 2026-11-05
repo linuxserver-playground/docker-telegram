@@ -695,7 +695,7 @@ gupnp-igd                                                                       
 gzip                                                                                              1.15-1                                    alpm                             
 h11                                                                                               0.16.0                                    python                           
 harfbuzz                                                                                          15.0.0-1                                  alpm                             
-harfbuzz-icu                                                                                      15.0.0-1                                  alpm                             
+harfbuzz-icu                                                                                      15.1.0-1                                  alpm                             
 harmonydeployqt                                                                                   6.12.0                                    UnknownPackage                   
 harmonyostestrunner                                                                               6.12.0                                    UnknownPackage                   
 hicolor-icon-theme                                                                                0.18-1                                    alpm                             
