@@ -1,8 +1,7 @@
 NAME                                                                                              VERSION                                   TYPE                             
 Bootstrap                                                                                         6.12.0                                    UnknownPackage                   
 CMake                                                                                             4.4.3                                                     (+3 duplicates)  
-CMake                                                                                             4.4.4                                                                      
-CMake                                                                                             4.4.5                                                                      
+CMake                                                                                             4.4.5                                                     (+1 duplicate)   
 CMake generator Ninja                                                                             1.13.2                                                    (+5 duplicates)  
 CacheControl                                                                                      0.14.4                                    python                           
 Compiler GNU                                                                                      16.2.1                                                    (+5 duplicates)  
@@ -325,7 +324,7 @@ WrapBrotli                                                                      
 WrapDBus1                                                                                         unknown                                                                    
 WrapFontconfig                                                                                    unknown                                                                    
 WrapFreetype                                                                                      2.15.0                                                                     
-WrapHarfbuzz                                                                                      15.0.0                                                                     
+WrapHarfbuzz                                                                                      15.1.0                                                                     
 WrapJpeg                                                                                          80                                                                         
 WrapOpenGL                                                                                        unknown                                                                    
 WrapOpenSSL                                                                                       unknown                                                                    
@@ -335,9 +334,10 @@ WrapResolv                                                                      
 WrapRt                                                                                            unknown                                                                    
 WrapSystemDoubleConversion                                                                        3.4.0                                                                      
 WrapSystemMd4c                                                                                    unknown                                                                    
-WrapSystemSQLite3                                                                                 3.54.0                                                                     
+WrapSystemSQLite3                                                                                 3.54.1                                                                     
 WrapWebP                                                                                          unknown                                                                    
-WrapZLIB                                                                                          1.3.2                                                     (+1 duplicate)   
+WrapZLIB                                                                                          1.3.2                                                                      
+WrapZLIB                                                                                          1.4                                                                        
 WrapZSTD                                                                                          unknown                                                                    
 X11                                                                                               unknown                                                                    
 X11_XCB                                                                                           1.8.14                                                                     
@@ -392,7 +392,7 @@ catatonit                                                                       
 certifi                                                                                           2026.10.19                                python                           
 certifi                                                                                           2026.10.23                                python                           
 cffi                                                                                              2.1.1                                     python                           
-chromium                                                                                          156.0.8078.79-1                           alpm                             
+chromium                                                                                          157.0.8103.38-1                           alpm                             
 click                                                                                             8.5.1                                     python                           
 cmake                                                                                             4.4.5-1                                   alpm                             
 cmake_automoc_parser                                                                              6.12.0                                    UnknownPackage                   
@@ -461,7 +461,7 @@ fuse-common                                                                     
 fuse-overlayfs                                                                                    1.18-1                                    alpm                             
 fuse3                                                                                             3.18.3-1                                  alpm                             
 gawk                                                                                              5.4.1-1                                   alpm                             
-gbm                                                                                               26.2.5-arch1.1                                                             
+gbm                                                                                               26.2.6-arch1.1                                                             
 gc                                                                                                8.2.12-1                                  alpm                             
 gcc                                                                                               16.2.1+r23+gd564253eb6c8-1                alpm                             
 gcc-libs                                                                                          16.2.1+r23+gd564253eb6c8-1                alpm                             
@@ -1118,7 +1118,7 @@ qmlxmllistmodelplugin                                                           
 qquicklayoutsplugin                                                                               6.12.0                                    UnknownPackage                   
 qquickvectorimagehelpersplugin                                                                    6.12.0                                    UnknownPackage                   
 qquickvectorimageplugin                                                                           6.12.0                                    UnknownPackage                   
-qt6-base                                                                                          6.12.0-4                                  alpm                             
+qt6-base                                                                                          6.12.0-5                                  alpm                             
 qt6-declarative                                                                                   6.12.0-4                                  alpm                             
 qt6-imageformats                                                                                  6.12.0-1                                  alpm                             
 qt6-svg                                                                                           6.12.0-1                                  alpm                             
