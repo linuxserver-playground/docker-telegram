@@ -1,12 +1,11 @@
 NAME                                                                                              VERSION                                   TYPE                             
-Bootstrap                                                                                         6.12.0                                    UnknownPackage                   
-CMake                                                                                             4.4.3                                                     (+3 duplicates)  
-CMake                                                                                             4.4.5                                                     (+1 duplicate)   
+Bootstrap                                                                                         6.12.1                                    UnknownPackage                   
+CMake                                                                                             4.5.1                                                     (+5 duplicates)  
 CMake generator Ninja                                                                             1.13.2                                                    (+5 duplicates)  
 CacheControl                                                                                      0.14.4                                    python                           
 Compiler GNU                                                                                      16.2.1                                                    (+5 duplicates)  
-Concurrent                                                                                        6.12.0                                    UnknownPackage                   
-Core                                                                                              6.12.0                                    UnknownPackage                   
+Concurrent                                                                                        6.12.1                                    UnknownPackage                   
+Core                                                                                              6.12.1                                    UnknownPackage                   
 Core_Attribution_0_0                                                                              unknown                                   UnknownPackage                   
 Core_Attribution_11_0                                                                             unknown                                   UnknownPackage                   
 Core_Attribution_7_0                                                                              unknown                                   UnknownPackage                   
@@ -17,62 +16,61 @@ Core_Attribution_md5                                                            
 Core_Attribution_rfc6234                                                                          unknown                                   UnknownPackage                   
 Core_Attribution_sha1                                                                             unknown                                   UnknownPackage                   
 Core_Attribution_siphash                                                                          unknown                                   UnknownPackage                   
-Core_Attribution_tinycbor                                                                         7.0                                       UnknownPackage                   
+Core_Attribution_tinycbor                                                                         7.1                                       UnknownPackage                   
 Core_Attribution_tlexpected                                                                       41d3e1f48d682992a2230b2a715bca38b848b269  UnknownPackage                   
 Cups                                                                                              2.4.20                                                                     
-DBus                                                                                              6.12.0                                    UnknownPackage                   
+DBus                                                                                              6.12.1                                    UnknownPackage                   
 DBus_Attribution_libdbus-1-headers                                                                1.13.12                                   UnknownPackage                   
-DeviceDiscoverySupportPrivate                                                                     6.12.0                                    UnknownPackage                   
-DmaBufServerBufferIntegrationPlugin                                                               6.12.0                                    UnknownPackage                   
-DmaBufServerBufferPlugin                                                                          6.12.0                                    UnknownPackage                   
-DrmEglServerBufferIntegrationPlugin                                                               6.12.0                                    UnknownPackage                   
-DrmEglServerBufferPlugin                                                                          6.12.0                                    UnknownPackage                   
+DeviceDiscoverySupportPrivate                                                                     6.12.1                                    UnknownPackage                   
+DmaBufServerBufferIntegrationPlugin                                                               6.12.1                                    UnknownPackage                   
+DmaBufServerBufferPlugin                                                                          6.12.1                                    UnknownPackage                   
+DrmEglServerBufferIntegrationPlugin                                                               6.12.1                                    UnknownPackage                   
+DrmEglServerBufferPlugin                                                                          6.12.1                                    UnknownPackage                   
 EGL                                                                                               1.5                                                       (+1 duplicate)   
-EglFSDeviceIntegrationPrivate                                                                     6.12.0                                    UnknownPackage                   
-EglFsKmsGbmSupportPrivate                                                                         6.12.0                                    UnknownPackage                   
-EglFsKmsSupportPrivate                                                                            6.12.0                                    UnknownPackage                   
-FbSupportPrivate                                                                                  6.12.0                                    UnknownPackage                   
+EglFSDeviceIntegrationPrivate                                                                     6.12.1                                    UnknownPackage                   
+EglFsKmsGbmSupportPrivate                                                                         6.12.1                                    UnknownPackage                   
+EglFsKmsSupportPrivate                                                                            6.12.1                                    UnknownPackage                   
+FbSupportPrivate                                                                                  6.12.1                                    UnknownPackage                   
 FreeType                                                                                          2.14.3                                    UnknownPackage                   
 FriBiDi                                                                                           1.0.17                                    UnknownPackage                   
 GLIB2                                                                                             unknown                                                                    
 GSSAPI                                                                                            unknown                                                                    
 GTK3                                                                                              3.24.52                                                                    
-GlobalConfig                                                                                      6.12.0                                    UnknownPackage                   
-GlobalConfigPrivate                                                                               6.12.0                                    UnknownPackage                   
-Gui                                                                                               6.12.0                                    UnknownPackage                   
+GlobalConfig                                                                                      6.12.1                                    UnknownPackage                   
+GlobalConfigPrivate                                                                               6.12.1                                    UnknownPackage                   
+Gui                                                                                               6.12.1                                    UnknownPackage                   
 Gui_Attribution_aglfn                                                                             1.7                                       UnknownPackage                   
 Gui_Attribution_emoji-segmenter                                                                   0.4.0                                     UnknownPackage                   
 Gui_Attribution_grayraster                                                                        unknown                                   UnknownPackage                   
 Gui_Attribution_icc-srgb-color-profile                                                            unknown                                   UnknownPackage                   
 Gui_Attribution_opengl-es2-headers                                                                Revision 27673                            UnknownPackage                   
 Gui_Attribution_opengl-headers                                                                    Revision 27684                            UnknownPackage                   
-Gui_Attribution_pixman                                                                            0.17.12                                   UnknownPackage                   
 Gui_Attribution_rhi-miniengine-d3d12-mipmap                                                       0aa79bad78992da0b6a8279ddb9002c1753cb849  UnknownPackage                   
 Gui_Attribution_smooth-scaling-algorithm                                                          unknown                                   UnknownPackage                   
 Gui_Attribution_vulkan-xml-spec                                                                   1.4.308                                   UnknownPackage                   
 Gui_Attribution_vulkanmemoryallocator                                                             3.3.0                                     UnknownPackage                   
 Gui_Attribution_webgradients                                                                      unknown                                   UnknownPackage                   
 Gui_Attribution_xserverhelper                                                                     unknown                                   UnknownPackage                   
-Gui_Attribution_xsvg                                                                              unknown                                   UnknownPackage                   
+Gui_Attribution_xsvg                                                                              0.2.1                                     UnknownPackage                   
 HarfBuzz                                                                                          14.5.0                                    UnknownPackage                   
 ICU                                                                                               78.3                                                                       
-InputSupportPrivate                                                                               6.12.0                                    UnknownPackage                   
+InputSupportPrivate                                                                               6.12.1                                    UnknownPackage                   
 Interbase                                                                                         unknown                                                                    
-KmsSupportPrivate                                                                                 6.12.0                                    UnknownPackage                   
-LabsAnimation                                                                                     6.12.0                                    UnknownPackage                   
-LabsFolderListModel                                                                               6.12.0                                    UnknownPackage                   
-LabsPlatform                                                                                      6.12.0                                    UnknownPackage                   
-LabsPlatformplugin                                                                                6.12.0                                    UnknownPackage                   
-LabsQmlModels                                                                                     6.12.0                                    UnknownPackage                   
-LabsSettings                                                                                      6.12.0                                    UnknownPackage                   
-LabsSharedImage                                                                                   6.12.0                                    UnknownPackage                   
-LabsStyleKit                                                                                      6.12.0                                    UnknownPackage                   
-LabsStyleKitImpl                                                                                  6.12.0                                    UnknownPackage                   
-LabsStyleKitImplplugin                                                                            6.12.0                                    UnknownPackage                   
-LabsStyleKitplugin                                                                                6.12.0                                    UnknownPackage                   
-LabsSynchronizer                                                                                  6.12.0                                    UnknownPackage                   
-LabsSynchronizerplugin                                                                            6.12.0                                    UnknownPackage                   
-LabsWavefrontMesh                                                                                 6.12.0                                    UnknownPackage                   
+KmsSupportPrivate                                                                                 6.12.1                                    UnknownPackage                   
+LabsAnimation                                                                                     6.12.1                                    UnknownPackage                   
+LabsFolderListModel                                                                               6.12.1                                    UnknownPackage                   
+LabsPlatform                                                                                      6.12.1                                    UnknownPackage                   
+LabsPlatformplugin                                                                                6.12.1                                    UnknownPackage                   
+LabsQmlModels                                                                                     6.12.1                                    UnknownPackage                   
+LabsSettings                                                                                      6.12.1                                    UnknownPackage                   
+LabsSharedImage                                                                                   6.12.1                                    UnknownPackage                   
+LabsStyleKit                                                                                      6.12.1                                    UnknownPackage                   
+LabsStyleKitImpl                                                                                  6.12.1                                    UnknownPackage                   
+LabsStyleKitImplplugin                                                                            6.12.1                                    UnknownPackage                   
+LabsStyleKitplugin                                                                                6.12.1                                    UnknownPackage                   
+LabsSynchronizer                                                                                  6.12.1                                    UnknownPackage                   
+LabsSynchronizerplugin                                                                            6.12.1                                    UnknownPackage                   
+LabsWavefrontMesh                                                                                 6.12.1                                    UnknownPackage                   
 Libb2                                                                                             0.98.1                                                                     
 Libdrm                                                                                            2.4.134                                                   (+1 duplicate)   
 Libinput                                                                                          1.32.0                                                                     
@@ -83,11 +81,11 @@ Linker GNU                                                                      
 Little CMS 2                                                                                      2.19.1                                    UnknownPackage                   
 Mtdev                                                                                             1.1.7                                                                      
 MySQL                                                                                             unknown                                                                    
-Network                                                                                           6.12.0                                    UnknownPackage                   
+Network                                                                                           6.12.1                                    UnknownPackage                   
 Network_Attribution_0_0                                                                           unknown                                   UnknownPackage                   
 ODBC                                                                                              unknown                                                                    
-OpenGL                                                                                            6.12.0                                    UnknownPackage                   
-OpenGLWidgets                                                                                     6.12.0                                    UnknownPackage                   
+OpenGL                                                                                            6.12.1                                    UnknownPackage                   
+OpenGLWidgets                                                                                     6.12.1                                    UnknownPackage                   
 OpenJPEG                                                                                          2.5.4                                     UnknownPackage                   
 PIL._avif                                                                                         13.0.0                                    python                           
 PIL._imaging                                                                                      13.0.0                                    python                           
@@ -97,187 +95,187 @@ PIL._imagingmath                                                                
 PIL._imagingmorph                                                                                 13.0.0                                    python                           
 PIL._imagingtk                                                                                    13.0.0                                    python                           
 PIL._webp                                                                                         13.0.0                                    python                           
-PacketProtocolPrivate                                                                             6.12.0                                    UnknownPackage                   
+PacketProtocolPrivate                                                                             6.12.1                                    UnknownPackage                   
 Pillow                                                                                            13.0.0                                    python                           
-Platform                                                                                          6.12.0                                    UnknownPackage                   
-PlatformAppInternal                                                                               6.12.0                                    UnknownPackage                   
-PlatformCommonInternal                                                                            6.12.0                                    UnknownPackage                   
-PlatformExampleInternal                                                                           6.12.0                                    UnknownPackage                   
-PlatformModuleInternal                                                                            6.12.0                                    UnknownPackage                   
-PlatformPluginInternal                                                                            6.12.0                                    UnknownPackage                   
-PlatformToolInternal                                                                              6.12.0                                    UnknownPackage                   
+Platform                                                                                          6.12.1                                    UnknownPackage                   
+PlatformAppInternal                                                                               6.12.1                                    UnknownPackage                   
+PlatformCommonInternal                                                                            6.12.1                                    UnknownPackage                   
+PlatformExampleInternal                                                                           6.12.1                                    UnknownPackage                   
+PlatformModuleInternal                                                                            6.12.1                                    UnknownPackage                   
+PlatformPluginInternal                                                                            6.12.1                                    UnknownPackage                   
+PlatformToolInternal                                                                              6.12.1                                    UnknownPackage                   
 Platform_Attribution_extra-cmake-modules                                                          5.84.0                                    UnknownPackage                   
 Platform_Attribution_kwin                                                                         5.13.4                                    UnknownPackage                   
-PostgreSQL                                                                                        18.6                                                                       
-PrintSupport                                                                                      6.12.0                                    UnknownPackage                   
-QComposePlatformInputContextPlugin                                                                6.12.0                                    UnknownPackage                   
-QConnManNetworkInformationPlugin                                                                  6.12.0                                    UnknownPackage                   
-QCupsPrinterSupportPlugin                                                                         6.12.0                                    UnknownPackage                   
-QDebugMessageServiceFactoryPlugin                                                                 6.12.0                                    UnknownPackage                   
-QEglFSEmulatorIntegrationPlugin                                                                   6.12.0                                    UnknownPackage                   
-QEglFSIntegrationPlugin                                                                           6.12.0                                    UnknownPackage                   
-QEglFSKmsEglDeviceIntegrationPlugin                                                               6.12.0                                    UnknownPackage                   
-QEglFSKmsGbmIntegrationPlugin                                                                     6.12.0                                    UnknownPackage                   
-QEglFSX11IntegrationPlugin                                                                        6.12.0                                    UnknownPackage                   
-QEvdevKeyboardPlugin                                                                              6.12.0                                    UnknownPackage                   
-QEvdevMousePlugin                                                                                 6.12.0                                    UnknownPackage                   
-QEvdevTabletPlugin                                                                                6.12.0                                    UnknownPackage                   
-QEvdevTouchScreenPlugin                                                                           6.12.0                                    UnknownPackage                   
-QGifPlugin                                                                                        6.12.0                                    UnknownPackage                   
-QGlibNetworkInformationPlugin                                                                     6.12.0                                    UnknownPackage                   
-QGtk3ThemePlugin                                                                                  6.12.0                                    UnknownPackage                   
-QIBaseDriverPlugin                                                                                6.12.0                                    UnknownPackage                   
-QICNSPlugin                                                                                       6.12.0                                    UnknownPackage                   
-QICOPlugin                                                                                        6.12.0                                    UnknownPackage                   
-QIbusPlatformInputContextPlugin                                                                   6.12.0                                    UnknownPackage                   
-QJpegPlugin                                                                                       6.12.0                                    UnknownPackage                   
-QLibInputPlugin                                                                                   6.12.0                                    UnknownPackage                   
-QLinuxFbIntegrationPlugin                                                                         6.12.0                                    UnknownPackage                   
-QLocalClientConnectionFactoryPlugin                                                               6.12.0                                    UnknownPackage                   
-QMYSQLDriverPlugin                                                                                6.12.0                                    UnknownPackage                   
-QMinimalEglIntegrationPlugin                                                                      6.12.0                                    UnknownPackage                   
-QMinimalIntegrationPlugin                                                                         6.12.0                                    UnknownPackage                   
-QNetworkManagerNetworkInformationPlugin                                                           6.12.0                                    UnknownPackage                   
-QODBCDriverPlugin                                                                                 6.12.0                                    UnknownPackage                   
-QOffscreenIntegrationPlugin                                                                       6.12.0                                    UnknownPackage                   
-QPSQLDriverPlugin                                                                                 6.12.0                                    UnknownPackage                   
-QQmlDebugServerFactoryPlugin                                                                      6.12.0                                    UnknownPackage                   
-QQmlDebuggerServiceFactoryPlugin                                                                  6.12.0                                    UnknownPackage                   
-QQmlInspectorServiceFactoryPlugin                                                                 6.12.0                                    UnknownPackage                   
-QQmlNativeDebugConnectorFactoryPlugin                                                             6.12.0                                    UnknownPackage                   
-QQmlNativeDebugServiceFactoryPlugin                                                               6.12.0                                    UnknownPackage                   
-QQmlPreviewServiceFactoryPlugin                                                                   6.12.0                                    UnknownPackage                   
-QQmlProfilerServiceFactoryPlugin                                                                  6.12.0                                    UnknownPackage                   
-QQuickEventReplayServiceFactoryPlugin                                                             6.12.0                                    UnknownPackage                   
-QQuickProfilerAdapterFactoryPlugin                                                                6.12.0                                    UnknownPackage                   
-QSQLiteDriverPlugin                                                                               6.12.0                                    UnknownPackage                   
-QSvgIconPlugin                                                                                    6.12.0                                    UnknownPackage                   
-QSvgPlugin                                                                                        6.12.0                                    UnknownPackage                   
-QTcpServerConnectionFactoryPlugin                                                                 6.12.0                                    UnknownPackage                   
-QTgaPlugin                                                                                        6.12.0                                    UnknownPackage                   
-QTiffPlugin                                                                                       6.12.0                                    UnknownPackage                   
-QTlsBackendCertOnlyPlugin                                                                         6.12.0                                    UnknownPackage                   
-QTlsBackendOpenSSLPlugin                                                                          6.12.0                                    UnknownPackage                   
-QTsLibPlugin                                                                                      6.12.0                                    UnknownPackage                   
-QTuioTouchPlugin                                                                                  6.12.0                                    UnknownPackage                   
-QVkKhrDisplayIntegrationPlugin                                                                    6.12.0                                    UnknownPackage                   
-QVncIntegrationPlugin                                                                             6.12.0                                    UnknownPackage                   
-QWaylandAdwaitaDecorationPlugin                                                                   6.12.0                                    UnknownPackage                   
-QWaylandBradientDecorationPlugin                                                                  6.12.0                                    UnknownPackage                   
-QWaylandDmabufClientBufferIntegrationPlugin                                                       6.12.0                                    UnknownPackage                   
+PostgreSQL                                                                                        18.7                                                                       
+PrintSupport                                                                                      6.12.1                                    UnknownPackage                   
+QComposePlatformInputContextPlugin                                                                6.12.1                                    UnknownPackage                   
+QConnManNetworkInformationPlugin                                                                  6.12.1                                    UnknownPackage                   
+QCupsPrinterSupportPlugin                                                                         6.12.1                                    UnknownPackage                   
+QDebugMessageServiceFactoryPlugin                                                                 6.12.1                                    UnknownPackage                   
+QEglFSEmulatorIntegrationPlugin                                                                   6.12.1                                    UnknownPackage                   
+QEglFSIntegrationPlugin                                                                           6.12.1                                    UnknownPackage                   
+QEglFSKmsEglDeviceIntegrationPlugin                                                               6.12.1                                    UnknownPackage                   
+QEglFSKmsGbmIntegrationPlugin                                                                     6.12.1                                    UnknownPackage                   
+QEglFSX11IntegrationPlugin                                                                        6.12.1                                    UnknownPackage                   
+QEvdevKeyboardPlugin                                                                              6.12.1                                    UnknownPackage                   
+QEvdevMousePlugin                                                                                 6.12.1                                    UnknownPackage                   
+QEvdevTabletPlugin                                                                                6.12.1                                    UnknownPackage                   
+QEvdevTouchScreenPlugin                                                                           6.12.1                                    UnknownPackage                   
+QGifPlugin                                                                                        6.12.1                                    UnknownPackage                   
+QGlibNetworkInformationPlugin                                                                     6.12.1                                    UnknownPackage                   
+QGtk3ThemePlugin                                                                                  6.12.1                                    UnknownPackage                   
+QIBaseDriverPlugin                                                                                6.12.1                                    UnknownPackage                   
+QICNSPlugin                                                                                       6.12.1                                    UnknownPackage                   
+QICOPlugin                                                                                        6.12.1                                    UnknownPackage                   
+QIbusPlatformInputContextPlugin                                                                   6.12.1                                    UnknownPackage                   
+QJpegPlugin                                                                                       6.12.1                                    UnknownPackage                   
+QLibInputPlugin                                                                                   6.12.1                                    UnknownPackage                   
+QLinuxFbIntegrationPlugin                                                                         6.12.1                                    UnknownPackage                   
+QLocalClientConnectionFactoryPlugin                                                               6.12.1                                    UnknownPackage                   
+QMYSQLDriverPlugin                                                                                6.12.1                                    UnknownPackage                   
+QMinimalEglIntegrationPlugin                                                                      6.12.1                                    UnknownPackage                   
+QMinimalIntegrationPlugin                                                                         6.12.1                                    UnknownPackage                   
+QNetworkManagerNetworkInformationPlugin                                                           6.12.1                                    UnknownPackage                   
+QODBCDriverPlugin                                                                                 6.12.1                                    UnknownPackage                   
+QOffscreenIntegrationPlugin                                                                       6.12.1                                    UnknownPackage                   
+QPSQLDriverPlugin                                                                                 6.12.1                                    UnknownPackage                   
+QQmlDebugServerFactoryPlugin                                                                      6.12.1                                    UnknownPackage                   
+QQmlDebuggerServiceFactoryPlugin                                                                  6.12.1                                    UnknownPackage                   
+QQmlInspectorServiceFactoryPlugin                                                                 6.12.1                                    UnknownPackage                   
+QQmlNativeDebugConnectorFactoryPlugin                                                             6.12.1                                    UnknownPackage                   
+QQmlNativeDebugServiceFactoryPlugin                                                               6.12.1                                    UnknownPackage                   
+QQmlPreviewServiceFactoryPlugin                                                                   6.12.1                                    UnknownPackage                   
+QQmlProfilerServiceFactoryPlugin                                                                  6.12.1                                    UnknownPackage                   
+QQuickEventReplayServiceFactoryPlugin                                                             6.12.1                                    UnknownPackage                   
+QQuickProfilerAdapterFactoryPlugin                                                                6.12.1                                    UnknownPackage                   
+QSQLiteDriverPlugin                                                                               6.12.1                                    UnknownPackage                   
+QSvgIconPlugin                                                                                    6.12.1                                    UnknownPackage                   
+QSvgPlugin                                                                                        6.12.1                                    UnknownPackage                   
+QTcpServerConnectionFactoryPlugin                                                                 6.12.1                                    UnknownPackage                   
+QTgaPlugin                                                                                        6.12.1                                    UnknownPackage                   
+QTiffPlugin                                                                                       6.12.1                                    UnknownPackage                   
+QTlsBackendCertOnlyPlugin                                                                         6.12.1                                    UnknownPackage                   
+QTlsBackendOpenSSLPlugin                                                                          6.12.1                                    UnknownPackage                   
+QTsLibPlugin                                                                                      6.12.1                                    UnknownPackage                   
+QTuioTouchPlugin                                                                                  6.12.1                                    UnknownPackage                   
+QVkKhrDisplayIntegrationPlugin                                                                    6.12.1                                    UnknownPackage                   
+QVncIntegrationPlugin                                                                             6.12.1                                    UnknownPackage                   
+QWaylandAdwaitaDecorationPlugin                                                                   6.12.1                                    UnknownPackage                   
+QWaylandBradientDecorationPlugin                                                                  6.12.1                                    UnknownPackage                   
+QWaylandDmabufClientBufferIntegrationPlugin                                                       6.12.1                                    UnknownPackage                   
 QWaylandDmabufClientBufferIntegrationPlugin_Attribution_wayland-linux-dmabuf-unstable-v1          unstable v1, version 3                    UnknownPackage                   
 QWaylandDmabufClientBufferIntegrationPlugin_Attribution_wayland-linux-dmabuf-v1                   v1, version 5                             UnknownPackage                   
-QWaylandDmabufUnstableClientBufferIntegrationPlugin                                               6.12.0                                    UnknownPackage                   
+QWaylandDmabufUnstableClientBufferIntegrationPlugin                                               6.12.1                                    UnknownPackage                   
 QWaylandDmabufUnstableClientBufferIntegrationPlugin_Attribution_wayland-linux-dmabuf-unstable-v1  unstable v1, version 3                    UnknownPackage                   
 QWaylandDmabufUnstableClientBufferIntegrationPlugin_Attribution_wayland-linux-dmabuf-v1           v1, version 5                             UnknownPackage                   
-QWaylandEglClientBufferIntegrationPlugin                                                          6.12.0                                    UnknownPackage                   
-QWaylandEglClientBufferPlugin                                                                     6.12.0                                    UnknownPackage                   
-QWaylandEglStreamClientBufferIntegrationPlugin                                                    6.12.0                                    UnknownPackage                   
+QWaylandEglClientBufferIntegrationPlugin                                                          6.12.1                                    UnknownPackage                   
+QWaylandEglClientBufferPlugin                                                                     6.12.1                                    UnknownPackage                   
+QWaylandEglStreamClientBufferIntegrationPlugin                                                    6.12.1                                    UnknownPackage                   
 QWaylandEglStreamClientBufferIntegrationPlugin_Attribution_wayland-eglstream-controller           1.1.1                                     UnknownPackage                   
-QWaylandFullScreenShellV1IntegrationPlugin                                                        6.12.0                                    UnknownPackage                   
+QWaylandFullScreenShellV1IntegrationPlugin                                                        6.12.1                                    UnknownPackage                   
 QWaylandFullScreenShellV1IntegrationPlugin_Attribution_wayland-fullscreen-protocol                unstable v1                               UnknownPackage                   
-QWaylandIntegrationPlugin                                                                         6.12.0                                    UnknownPackage                   
-QWaylandIviShellIntegrationPlugin                                                                 6.12.0                                    UnknownPackage                   
+QWaylandIntegrationPlugin                                                                         6.12.1                                    UnknownPackage                   
+QWaylandIviShellIntegrationPlugin                                                                 6.12.1                                    UnknownPackage                   
 QWaylandIviShellIntegrationPlugin_Attribution_wayland-ivi-extension-protocol                      1.9.1                                     UnknownPackage                   
-QWaylandQtShellIntegrationPlugin                                                                  6.12.0                                    UnknownPackage                   
-QWaylandWlShellIntegrationPlugin                                                                  6.12.0                                    UnknownPackage                   
-QWaylandXdgShellIntegrationPlugin                                                                 6.12.0                                    UnknownPackage                   
+QWaylandQtShellIntegrationPlugin                                                                  6.12.1                                    UnknownPackage                   
+QWaylandWlShellIntegrationPlugin                                                                  6.12.1                                    UnknownPackage                   
+QWaylandXdgShellIntegrationPlugin                                                                 6.12.1                                    UnknownPackage                   
 QWaylandXdgShellIntegrationPlugin_Attribution_wayland-xdg-activation                              unstable v1, version 1                    UnknownPackage                   
 QWaylandXdgShellIntegrationPlugin_Attribution_wayland-xdg-decoration-protocol                     unstable v1, version 1                    UnknownPackage                   
 QWaylandXdgShellIntegrationPlugin_Attribution_wayland-xdg-shell-protocol                          1.18                                      UnknownPackage                   
 QWaylandXdgShellIntegrationPlugin_Attribution_xdg-dialog-v1                                       1                                         UnknownPackage                   
 QWaylandXdgShellIntegrationPlugin_Attribution_xdg-foreign-unstable-v2                             1                                         UnknownPackage                   
-QWbmpPlugin                                                                                       6.12.0                                    UnknownPackage                   
-QWebpPlugin                                                                                       6.12.0                                    UnknownPackage                   
-QXcbEglIntegrationPlugin                                                                          6.12.0                                    UnknownPackage                   
-QXcbGlxIntegrationPlugin                                                                          6.12.0                                    UnknownPackage                   
-QXcbIntegrationPlugin                                                                             6.12.0                                    UnknownPackage                   
-QXdgDesktopPortalThemePlugin                                                                      6.12.0                                    UnknownPackage                   
-Qml                                                                                               6.12.0                                    UnknownPackage                   
-QmlCompiler                                                                                       6.12.0                                    UnknownPackage                   
-QmlCore                                                                                           6.12.0                                    UnknownPackage                   
-QmlDebugPrivate                                                                                   6.12.0                                    UnknownPackage                   
-QmlDesignSupport                                                                                  6.12.0                                    UnknownPackage                   
-QmlDesignSupportplugin                                                                            6.12.0                                    UnknownPackage                   
-QmlDomPrivate                                                                                     6.12.0                                    UnknownPackage                   
-QmlFormatPrivate                                                                                  6.12.0                                    UnknownPackage                   
-QmlIntegration                                                                                    6.12.0                                    UnknownPackage                   
-QmlLSPrivate                                                                                      6.12.0                                    UnknownPackage                   
-QmlLSQuickPlugin                                                                                  6.12.0                                    UnknownPackage                   
-QmlLintPrivate                                                                                    6.12.0                                    UnknownPackage                   
-QmlLintQdsPlugin                                                                                  6.12.0                                    UnknownPackage                   
-QmlLintQuickPlugin                                                                                6.12.0                                    UnknownPackage                   
-QmlLocalStorage                                                                                   6.12.0                                    UnknownPackage                   
-QmlMeta                                                                                           6.12.0                                    UnknownPackage                   
-QmlModels                                                                                         6.12.0                                    UnknownPackage                   
-QmlNetwork                                                                                        6.12.0                                    UnknownPackage                   
-QmlNetworkplugin                                                                                  6.12.0                                    UnknownPackage                   
-QmlPreviewPrivate                                                                                 6.12.0                                    UnknownPackage                   
-QmlToolingSettingsPrivate                                                                         6.12.0                                    UnknownPackage                   
-QmlTypeRegistrarPrivate                                                                           6.12.0                                    UnknownPackage                   
-QmlWorkerScript                                                                                   6.12.0                                    UnknownPackage                   
-QmlXmlListModel                                                                                   6.12.0                                    UnknownPackage                   
+QWbmpPlugin                                                                                       6.12.1                                    UnknownPackage                   
+QWebpPlugin                                                                                       6.12.1                                    UnknownPackage                   
+QXcbEglIntegrationPlugin                                                                          6.12.1                                    UnknownPackage                   
+QXcbGlxIntegrationPlugin                                                                          6.12.1                                    UnknownPackage                   
+QXcbIntegrationPlugin                                                                             6.12.1                                    UnknownPackage                   
+QXdgDesktopPortalThemePlugin                                                                      6.12.1                                    UnknownPackage                   
+Qml                                                                                               6.12.1                                    UnknownPackage                   
+QmlCompiler                                                                                       6.12.1                                    UnknownPackage                   
+QmlCore                                                                                           6.12.1                                    UnknownPackage                   
+QmlDebugPrivate                                                                                   6.12.1                                    UnknownPackage                   
+QmlDesignSupport                                                                                  6.12.1                                    UnknownPackage                   
+QmlDesignSupportplugin                                                                            6.12.1                                    UnknownPackage                   
+QmlDomPrivate                                                                                     6.12.1                                    UnknownPackage                   
+QmlFormatPrivate                                                                                  6.12.1                                    UnknownPackage                   
+QmlIntegration                                                                                    6.12.1                                    UnknownPackage                   
+QmlLSPrivate                                                                                      6.12.1                                    UnknownPackage                   
+QmlLSQuickPlugin                                                                                  6.12.1                                    UnknownPackage                   
+QmlLintPrivate                                                                                    6.12.1                                    UnknownPackage                   
+QmlLintQdsPlugin                                                                                  6.12.1                                    UnknownPackage                   
+QmlLintQuickPlugin                                                                                6.12.1                                    UnknownPackage                   
+QmlLocalStorage                                                                                   6.12.1                                    UnknownPackage                   
+QmlMeta                                                                                           6.12.1                                    UnknownPackage                   
+QmlModels                                                                                         6.12.1                                    UnknownPackage                   
+QmlNetwork                                                                                        6.12.1                                    UnknownPackage                   
+QmlNetworkplugin                                                                                  6.12.1                                    UnknownPackage                   
+QmlPreviewPrivate                                                                                 6.12.1                                    UnknownPackage                   
+QmlToolingSettingsPrivate                                                                         6.12.1                                    UnknownPackage                   
+QmlTypeRegistrarPrivate                                                                           6.12.1                                    UnknownPackage                   
+QmlWorkerScript                                                                                   6.12.1                                    UnknownPackage                   
+QmlXmlListModel                                                                                   6.12.1                                    UnknownPackage                   
 Qml_Attribution_masm                                                                              unknown                                   UnknownPackage                   
-QmltcPrivate                                                                                      6.12.0                                    UnknownPackage                   
-QtLibraryInfo                                                                                     6.12.0                                    UnknownPackage                   
-Quick                                                                                             6.12.0                                    UnknownPackage                   
-QuickControls2                                                                                    6.12.0                                    UnknownPackage                   
-QuickControls2Basic                                                                               6.12.0                                    UnknownPackage                   
-QuickControls2BasicStyleImpl                                                                      6.12.0                                    UnknownPackage                   
-QuickControls2FluentWinUI3                                                                        6.12.0                                    UnknownPackage                   
-QuickControls2FluentWinUI3StyleImpl                                                               6.12.0                                    UnknownPackage                   
-QuickControls2Fusion                                                                              6.12.0                                    UnknownPackage                   
-QuickControls2FusionStyleImpl                                                                     6.12.0                                    UnknownPackage                   
-QuickControls2Imagine                                                                             6.12.0                                    UnknownPackage                   
-QuickControls2ImagineStyleImpl                                                                    6.12.0                                    UnknownPackage                   
-QuickControls2Impl                                                                                6.12.0                                    UnknownPackage                   
-QuickControls2Material                                                                            6.12.0                                    UnknownPackage                   
-QuickControls2MaterialStyleImpl                                                                   6.12.0                                    UnknownPackage                   
+QmltcPrivate                                                                                      6.12.1                                    UnknownPackage                   
+QtLibraryInfo                                                                                     6.12.1                                    UnknownPackage                   
+Quick                                                                                             6.12.1                                    UnknownPackage                   
+QuickControls2                                                                                    6.12.1                                    UnknownPackage                   
+QuickControls2Basic                                                                               6.12.1                                    UnknownPackage                   
+QuickControls2BasicStyleImpl                                                                      6.12.1                                    UnknownPackage                   
+QuickControls2FluentWinUI3                                                                        6.12.1                                    UnknownPackage                   
+QuickControls2FluentWinUI3StyleImpl                                                               6.12.1                                    UnknownPackage                   
+QuickControls2Fusion                                                                              6.12.1                                    UnknownPackage                   
+QuickControls2FusionStyleImpl                                                                     6.12.1                                    UnknownPackage                   
+QuickControls2Imagine                                                                             6.12.1                                    UnknownPackage                   
+QuickControls2ImagineStyleImpl                                                                    6.12.1                                    UnknownPackage                   
+QuickControls2Impl                                                                                6.12.1                                    UnknownPackage                   
+QuickControls2Material                                                                            6.12.1                                    UnknownPackage                   
+QuickControls2MaterialStyleImpl                                                                   6.12.1                                    UnknownPackage                   
 QuickControls2Material_Attribution_shadow_angular_material                                        unknown                                   UnknownPackage                   
-QuickControls2Native                                                                              6.12.0                                    UnknownPackage                   
-QuickControls2Universal                                                                           6.12.0                                    UnknownPackage                   
-QuickControls2UniversalStyleImpl                                                                  6.12.0                                    UnknownPackage                   
-QuickControlsTestUtilsPrivate                                                                     6.12.0                                    UnknownPackage                   
-QuickControlsTestUtilsPrivateplugin                                                               6.12.0                                    UnknownPackage                   
-QuickDialogs2                                                                                     6.12.0                                    UnknownPackage                   
-QuickDialogs2QuickImpl                                                                            6.12.0                                    UnknownPackage                   
-QuickDialogs2Utils                                                                                6.12.0                                    UnknownPackage                   
-QuickEffects                                                                                      6.12.0                                    UnknownPackage                   
-QuickLayouts                                                                                      6.12.0                                    UnknownPackage                   
+QuickControls2Native                                                                              6.12.1                                    UnknownPackage                   
+QuickControls2Universal                                                                           6.12.1                                    UnknownPackage                   
+QuickControls2UniversalStyleImpl                                                                  6.12.1                                    UnknownPackage                   
+QuickControlsTestUtilsPrivate                                                                     6.12.1                                    UnknownPackage                   
+QuickControlsTestUtilsPrivateplugin                                                               6.12.1                                    UnknownPackage                   
+QuickDialogs2                                                                                     6.12.1                                    UnknownPackage                   
+QuickDialogs2QuickImpl                                                                            6.12.1                                    UnknownPackage                   
+QuickDialogs2Utils                                                                                6.12.1                                    UnknownPackage                   
+QuickEffects                                                                                      6.12.1                                    UnknownPackage                   
+QuickLayouts                                                                                      6.12.1                                    UnknownPackage                   
 QuickLayouts_Attribution_yoga                                                                     2.0.1                                     UnknownPackage                   
-QuickParticles                                                                                    6.12.0                                    UnknownPackage                   
-QuickShapes                                                                                       6.12.0                                    UnknownPackage                   
-QuickShapesDesignHelpers                                                                          6.12.0                                    UnknownPackage                   
-QuickTemplates2                                                                                   6.12.0                                    UnknownPackage                   
-QuickTest                                                                                         6.12.0                                    UnknownPackage                   
-QuickTestUtilsPrivate                                                                             6.12.0                                    UnknownPackage                   
-QuickTestplugin                                                                                   6.12.0                                    UnknownPackage                   
-QuickVectorImage                                                                                  6.12.0                                    UnknownPackage                   
-QuickVectorImageGeneratorPrivate                                                                  6.12.0                                    UnknownPackage                   
-QuickVectorImageHelpers                                                                           6.12.0                                    UnknownPackage                   
-QuickWidgets                                                                                      6.12.0                                    UnknownPackage                   
+QuickParticles                                                                                    6.12.1                                    UnknownPackage                   
+QuickShapes                                                                                       6.12.1                                    UnknownPackage                   
+QuickShapesDesignHelpers                                                                          6.12.1                                    UnknownPackage                   
+QuickTemplates2                                                                                   6.12.1                                    UnknownPackage                   
+QuickTest                                                                                         6.12.1                                    UnknownPackage                   
+QuickTestUtilsPrivate                                                                             6.12.1                                    UnknownPackage                   
+QuickTestplugin                                                                                   6.12.1                                    UnknownPackage                   
+QuickVectorImage                                                                                  6.12.1                                    UnknownPackage                   
+QuickVectorImageGeneratorPrivate                                                                  6.12.1                                    UnknownPackage                   
+QuickVectorImageHelpers                                                                           6.12.1                                    UnknownPackage                   
+QuickWidgets                                                                                      6.12.1                                    UnknownPackage                   
 RenderDoc                                                                                         unknown                                                                    
-ShmServerBufferIntegrationPlugin                                                                  6.12.0                                    UnknownPackage                   
-ShmServerBufferPlugin                                                                             6.12.0                                    UnknownPackage                   
+ShmServerBufferIntegrationPlugin                                                                  6.12.1                                    UnknownPackage                   
+ShmServerBufferPlugin                                                                             6.12.1                                    UnknownPackage                   
 Simple Launcher                                                                                   1.1.0.14                                  binary          (+5 duplicates)  
-Sql                                                                                               6.12.0                                    UnknownPackage                   
-Svg                                                                                               6.12.0                                    UnknownPackage                   
-SvgWidgets                                                                                        6.12.0                                    UnknownPackage                   
+Sql                                                                                               6.12.1                                    UnknownPackage                   
+Svg                                                                                               6.12.1                                    UnknownPackage                   
+SvgWidgets                                                                                        6.12.1                                    UnknownPackage                   
 TIFF                                                                                              4.7.2                                                                      
-Test                                                                                              6.12.0                                    UnknownPackage                   
-TestInternalsPrivate                                                                              6.12.0                                    UnknownPackage                   
+Test                                                                                              6.12.1                                    UnknownPackage                   
+TestInternalsPrivate                                                                              6.12.1                                    UnknownPackage                   
 TestInternalsPrivate_Attribution_cmake-runcmake-test-modules                                      3.31.5                                    UnknownPackage                   
 Test_Attribution_catch2                                                                           2.13.10                                   UnknownPackage                   
 Test_Attribution_cycle                                                                            3.3.11                                    UnknownPackage                   
 Test_Attribution_linuxperf                                                                        7.0                                       UnknownPackage                   
 Test_Attribution_valgrind                                                                         3.25.1                                    UnknownPackage                   
-Translations                                                                                      6.12.0                                    UnknownPackage                   
+Translations                                                                                      6.12.1                                    UnknownPackage                   
 Tslib                                                                                             1.24                                                                       
-VulkanServerBufferIntegrationPlugin                                                               6.12.0                                    UnknownPackage                   
-VulkanServerBufferPlugin                                                                          6.12.0                                    UnknownPackage                   
+VulkanServerBufferIntegrationPlugin                                                               6.12.1                                    UnknownPackage                   
+VulkanServerBufferPlugin                                                                          6.12.1                                    UnknownPackage                   
 Wayland                                                                                           1.26.0                                                    (+1 duplicate)   
-WaylandClient                                                                                     6.12.0                                    UnknownPackage                   
-WaylandClientFeaturesPrivate                                                                      6.12.0                                    UnknownPackage                   
+WaylandClient                                                                                     6.12.1                                    UnknownPackage                   
+WaylandClientFeaturesPrivate                                                                      6.12.1                                    UnknownPackage                   
 WaylandClient_Attribution_fractional-scale-v1                                                     1                                         UnknownPackage                   
 WaylandClient_Attribution_wayland-pointer-gestures-protocol                                       unstable v1, version 2                    UnknownPackage                   
 WaylandClient_Attribution_wayland-primary-selection-protocol                                      1                                         UnknownPackage                   
@@ -291,16 +289,16 @@ WaylandClient_Attribution_wayland-viewporter-protocol                           
 WaylandClient_Attribution_wayland-xdg-output-protocol                                             unstable v1, version 3                    UnknownPackage                   
 WaylandClient_Attribution_wayland-xdg-shell-protocol                                              1.18                                      UnknownPackage                   
 WaylandClient_Attribution_wlr-data-control-unstable-v1-protocol                                   2                                         UnknownPackage                   
-WaylandCompositor                                                                                 6.12.0                                    UnknownPackage                   
-WaylandCompositorIviapplication                                                                   6.12.0                                    UnknownPackage                   
-WaylandCompositorIviapplicationplugin                                                             6.12.0                                    UnknownPackage                   
-WaylandCompositorPresentationTime                                                                 6.12.0                                    UnknownPackage                   
-WaylandCompositorPresentationTimeplugin                                                           6.12.0                                    UnknownPackage                   
-WaylandCompositorQtShell                                                                          6.12.0                                    UnknownPackage                   
-WaylandCompositorWLShell                                                                          6.12.0                                    UnknownPackage                   
-WaylandCompositorWLShellplugin                                                                    6.12.0                                    UnknownPackage                   
-WaylandCompositorXdgShell                                                                         6.12.0                                    UnknownPackage                   
-WaylandCompositorXdgShellplugin                                                                   6.12.0                                    UnknownPackage                   
+WaylandCompositor                                                                                 6.12.1                                    UnknownPackage                   
+WaylandCompositorIviapplication                                                                   6.12.1                                    UnknownPackage                   
+WaylandCompositorIviapplicationplugin                                                             6.12.1                                    UnknownPackage                   
+WaylandCompositorPresentationTime                                                                 6.12.1                                    UnknownPackage                   
+WaylandCompositorPresentationTimeplugin                                                           6.12.1                                    UnknownPackage                   
+WaylandCompositorQtShell                                                                          6.12.1                                    UnknownPackage                   
+WaylandCompositorWLShell                                                                          6.12.1                                    UnknownPackage                   
+WaylandCompositorWLShellplugin                                                                    6.12.1                                    UnknownPackage                   
+WaylandCompositorXdgShell                                                                         6.12.1                                    UnknownPackage                   
+WaylandCompositorXdgShellplugin                                                                   6.12.1                                    UnknownPackage                   
 WaylandCompositor_Attribution_presentation-time_xml                                               1                                         UnknownPackage                   
 WaylandCompositor_Attribution_wayland-ivi-extension-protocol                                      1.9.1                                     UnknownPackage                   
 WaylandCompositor_Attribution_wayland-protocol                                                    1.24.0                                    UnknownPackage                   
@@ -312,19 +310,19 @@ WaylandCompositor_Attribution_wayland-xdg-decoration-protocol                   
 WaylandCompositor_Attribution_wayland-xdg-output-protocol                                         unstable v1, version 3                    UnknownPackage                   
 WaylandCompositor_Attribution_wayland-xdg-shell-protocol                                          1.18                                      UnknownPackage                   
 WaylandCompositor_Attribution_xdg-dialog-v1                                                       1                                         UnknownPackage                   
-WaylandEglCompositorHwIntegrationPrivate                                                          6.12.0                                    UnknownPackage                   
-WaylandGlobalPrivate                                                                              6.12.0                                    UnknownPackage                   
-WaylandTextureSharing                                                                             6.12.0                                    UnknownPackage                   
-WaylandTextureSharingExtension                                                                    6.12.0                                    UnknownPackage                   
-Widgets                                                                                           6.12.0                                    UnknownPackage                   
-WlShellIntegrationPrivate                                                                         6.12.0                                    UnknownPackage                   
+WaylandEglCompositorHwIntegrationPrivate                                                          6.12.1                                    UnknownPackage                   
+WaylandGlobalPrivate                                                                              6.12.1                                    UnknownPackage                   
+WaylandTextureSharing                                                                             6.12.1                                    UnknownPackage                   
+WaylandTextureSharingExtension                                                                    6.12.1                                    UnknownPackage                   
+Widgets                                                                                           6.12.1                                    UnknownPackage                   
+WlShellIntegrationPrivate                                                                         6.12.1                                    UnknownPackage                   
 WrapAtomic                                                                                        unknown                                                                    
 WrapBacktrace                                                                                     unknown                                                                    
 WrapBrotli                                                                                        unknown                                                                    
 WrapDBus1                                                                                         unknown                                                                    
 WrapFontconfig                                                                                    unknown                                                                    
 WrapFreetype                                                                                      2.15.0                                                                     
-WrapHarfbuzz                                                                                      15.1.0                                                                     
+WrapHarfbuzz                                                                                      15.2.0                                                                     
 WrapJpeg                                                                                          80                                                                         
 WrapOpenGL                                                                                        unknown                                                                    
 WrapOpenSSL                                                                                       unknown                                                                    
@@ -336,19 +334,17 @@ WrapSystemDoubleConversion                                                      
 WrapSystemMd4c                                                                                    unknown                                                                    
 WrapSystemSQLite3                                                                                 3.54.1                                                                     
 WrapWebP                                                                                          unknown                                                                    
-WrapZLIB                                                                                          1.3.2                                                                      
-WrapZLIB                                                                                          1.4                                                                        
+WrapZLIB                                                                                          1.4                                                       (+1 duplicate)   
 WrapZSTD                                                                                          unknown                                                                    
 X11                                                                                               unknown                                                                    
 X11_XCB                                                                                           1.8.14                                                                     
 XCB                                                                                               1.17.0                                                                     
 XKB                                                                                               1.13.2                                                                     
 XKB_COMMON_X11                                                                                    1.13.2                                                                     
-XcbQpaPrivate                                                                                     6.12.0                                    UnknownPackage                   
-Xml                                                                                               6.12.0                                    UnknownPackage                   
+XcbQpaPrivate                                                                                     6.12.1                                    UnknownPackage                   
+Xml                                                                                               6.12.1                                    UnknownPackage                   
 abseil-cpp                                                                                        20260817.0-2                              alpm                             
 acl                                                                                               2.4.0-1                                   alpm                             
-ada                                                                                               4.0.0-1                                   alpm                             
 adwaita-cursors                                                                                   51.0-1                                    alpm                             
 adwaita-fonts                                                                                     51.0-2                                    alpm                             
 adwaita-icon-theme                                                                                51.0-1                                    alpm                             
@@ -360,8 +356,8 @@ aiosignal                                                                       
 alsa-lib                                                                                          1.2.16.1-1                                alpm                             
 alsa-topology-conf                                                                                1.2.5.1-4                                 alpm                             
 alsa-ucm-conf                                                                                     1.2.16.1-1                                alpm                             
-androiddeployqt                                                                                   6.12.0                                    UnknownPackage                   
-androidtestrunner                                                                                 6.12.0                                    UnknownPackage                   
+androiddeployqt                                                                                   6.12.1                                    UnknownPackage                   
+androidtestrunner                                                                                 6.12.1                                    UnknownPackage                   
 annotated-doc                                                                                     0.0.7                                     python                           
 annotated-types                                                                                   0.8.0                                     python                           
 anyio                                                                                             4.16.0                                    python                           
@@ -392,10 +388,10 @@ catatonit                                                                       
 certifi                                                                                           2026.10.19                                python                           
 certifi                                                                                           2026.11.20                                python                           
 cffi                                                                                              2.1.1                                     python                           
-chromium                                                                                          158.0.8127.36-2                           alpm                             
+chromium                                                                                          158.0.8127.88-1                           alpm                             
 click                                                                                             8.5.1                                     python                           
 cmake                                                                                             4.5.1-1                                   alpm                             
-cmake_automoc_parser                                                                              6.12.0                                    UnknownPackage                   
+cmake_automoc_parser                                                                              6.12.1                                    UnknownPackage                   
 command-line-arguments                                                                            UNKNOWN                                   go-module                        
 connectrpc.com/connect                                                                            v1.19.1                                   go-module                        
 containerd                                                                                        2.4.2-1                                   alpm                             
@@ -431,7 +427,7 @@ double-conversion                                                               
 duktape                                                                                           2.7.0-7                                   alpm                             
 dunst                                                                                             1.13.2-3                                  alpm                             
 e2fsprogs                                                                                         1.47.4-1                                  alpm                             
-effectsplugin                                                                                     6.12.0                                    UnknownPackage                   
+effectsplugin                                                                                     6.12.1                                    UnknownPackage                   
 egl-gbm                                                                                           1.1.4-1                                   alpm                             
 egl-wayland                                                                                       4:1.1.24-1                                alpm                             
 egl-x11                                                                                           1.0.6-1                                   alpm                             
@@ -461,7 +457,7 @@ fuse-common                                                                     
 fuse-overlayfs                                                                                    1.18-1                                    alpm                             
 fuse3                                                                                             3.18.3-1                                  alpm                             
 gawk                                                                                              5.4.1-1                                   alpm                             
-gbm                                                                                               26.2.6-arch1.1                                                             
+gbm                                                                                               26.3.1-arch1.3                                                             
 gc                                                                                                8.2.12-1                                  alpm                             
 gcc                                                                                               16.2.1+r23+gd564253eb6c8-1                alpm                             
 gcc-libs                                                                                          16.2.1+r23+gd564253eb6c8-1                alpm                             
@@ -705,8 +701,8 @@ gzip                                                                            
 h11                                                                                               0.16.0                                    python                           
 harfbuzz                                                                                          15.1.0-1                                  alpm                             
 harfbuzz-icu                                                                                      15.2.0-1                                  alpm                             
-harmonydeployqt                                                                                   6.12.0                                    UnknownPackage                   
-harmonyostestrunner                                                                               6.12.0                                    UnknownPackage                   
+harmonydeployqt                                                                                   6.12.1                                    UnknownPackage                   
+harmonyostestrunner                                                                               6.12.1                                    UnknownPackage                   
 hicolor-icon-theme                                                                                0.18-1                                    alpm                             
 hidapi                                                                                            0.15.0-1                                  alpm                             
 highway                                                                                           1.4.0-1                                   alpm                             
@@ -757,8 +753,8 @@ keyutils                                                                        
 kmod                                                                                              34.3-2                                    alpm                             
 krb5                                                                                              1.22.2-2                                  alpm                             
 l-smash                                                                                           2.14.5-4                                  alpm                             
-labsanimationplugin                                                                               6.12.0                                    UnknownPackage                   
-labsmodelsplugin                                                                                  6.12.0                                    UnknownPackage                   
+labsanimationplugin                                                                               6.12.1                                    UnknownPackage                   
+labsmodelsplugin                                                                                  6.12.1                                    UnknownPackage                   
 labwc                                                                                             0.20.3-2                                  alpm                             
 lame                                                                                              4.0-1                                     alpm                             
 lcms2                                                                                             2.20-1                                    alpm                             
@@ -979,8 +975,8 @@ markupsafe                                                                      
 md4c                                                                                              0.6.0-2                                   alpm                             
 mesa                                                                                              1:26.3.1-2                                alpm                             
 minizip                                                                                           1:1.4-1                                   alpm                             
-moc                                                                                               6.12.0                                    UnknownPackage                   
-modelsplugin                                                                                      6.12.0                                    UnknownPackage                   
+moc                                                                                               6.12.1                                    UnknownPackage                   
+modelsplugin                                                                                      6.12.1                                    UnknownPackage                   
 more-itertools                                                                                    11.2.1                                    python                           
 mpdecimal                                                                                         4.0.1-3                                   alpm                             
 mpfr                                                                                              4.2.2-1                                   alpm                             
@@ -1026,7 +1022,7 @@ pacman-mirrorlist                                                               
 pam                                                                                               1.7.3-1                                   alpm                             
 pambase                                                                                           20260616-1                                alpm                             
 pango                                                                                             1:1.58.2-1                                alpm                             
-particlesplugin                                                                                   6.12.0                                    UnknownPackage                   
+particlesplugin                                                                                   6.12.1                                    UnknownPackage                   
 patch                                                                                             2.8.1-1                                   alpm                             
 pciutils                                                                                          3.15.0-1                                  alpm                             
 pcmflux                                                                                           2.2.0                                     python          (+1 duplicate)   
@@ -1087,82 +1083,82 @@ python-setuptools                                                               
 python-wheel                                                                                      0.48.0-1                                  alpm                             
 pythoncapi_compat                                                                                 UNKNOWN                                   UnknownPackage                   
 pyyaml                                                                                            6.0.4                                     python                           
-qdbuscpp2xml                                                                                      6.12.0                                    UnknownPackage                   
-qdbusxml2cpp                                                                                      6.12.0                                    UnknownPackage                   
-qlalr                                                                                             6.12.0                                    UnknownPackage                   
-qmake                                                                                             6.12.0                                    UnknownPackage                   
-qml_tool                                                                                          6.12.0                                    UnknownPackage                   
-qmlaotstats                                                                                       6.12.0                                    UnknownPackage                   
-qmlcachegen                                                                                       6.12.0                                    UnknownPackage                   
-qmlcontextpropertydump                                                                            6.12.0                                    UnknownPackage                   
-qmldom                                                                                            6.12.0                                    UnknownPackage                   
-qmleasing                                                                                         6.12.0                                    UnknownPackage                   
-qmlfolderlistmodelplugin                                                                          6.12.0                                    UnknownPackage                   
-qmlformat                                                                                         6.12.0                                    UnknownPackage                   
-qmlimportscanner                                                                                  6.12.0                                    UnknownPackage                   
-qmljsrootgen                                                                                      6.12.0                                    UnknownPackage                   
-qmllint                                                                                           6.12.0                                    UnknownPackage                   
-qmllocalstorageplugin                                                                             6.12.0                                    UnknownPackage                   
-qmlls                                                                                             6.12.0                                    UnknownPackage                   
-qmlplugin                                                                                         6.12.0                                    UnknownPackage                   
-qmlplugindump                                                                                     6.12.0                                    UnknownPackage                   
-qmlpreview                                                                                        6.12.0                                    UnknownPackage                   
-qmlprofiler                                                                                       6.12.0                                    UnknownPackage                   
-qmlscene                                                                                          6.12.0                                    UnknownPackage                   
-qmlsettingsplugin                                                                                 6.12.0                                    UnknownPackage                   
-qmlshapesplugin                                                                                   6.12.0                                    UnknownPackage                   
-qmltc                                                                                             6.12.0                                    UnknownPackage                   
-qmltestrunner                                                                                     6.12.0                                    UnknownPackage                   
-qmltime                                                                                           6.12.0                                    UnknownPackage                   
-qmltyperegistrar                                                                                  6.12.0                                    UnknownPackage                   
-qmlwavefrontmeshplugin                                                                            6.12.0                                    UnknownPackage                   
-qmlxmllistmodelplugin                                                                             6.12.0                                    UnknownPackage                   
-qquicklayoutsplugin                                                                               6.12.0                                    UnknownPackage                   
-qquickvectorimagehelpersplugin                                                                    6.12.0                                    UnknownPackage                   
-qquickvectorimageplugin                                                                           6.12.0                                    UnknownPackage                   
-qt6-base                                                                                          6.12.0-5                                  alpm                             
-qt6-declarative                                                                                   6.12.0-4                                  alpm                             
-qt6-imageformats                                                                                  6.12.0-1                                  alpm                             
-qt6-svg                                                                                           6.12.0-1                                  alpm                             
-qt6-translations                                                                                  6.12.0-1                                  alpm                             
-qt6-wayland                                                                                       6.12.0-1                                  alpm                             
-qtbase                                                                                            6.12.0+dirty                              UnknownPackage                   
-qtdeclarative                                                                                     6.12.0+dirty                              UnknownPackage                   
-qtimageformats                                                                                    6.12.0                                    UnknownPackage                   
-qtpaths                                                                                           6.12.0                                    UnknownPackage                   
-qtqmlcoreplugin                                                                                   6.12.0                                    UnknownPackage                   
-qtquick2plugin                                                                                    6.12.0                                    UnknownPackage                   
-qtquickcontrols2basicstyleimplplugin                                                              6.12.0                                    UnknownPackage                   
-qtquickcontrols2basicstyleplugin                                                                  6.12.0                                    UnknownPackage                   
-qtquickcontrols2fluentwinui3styleimplplugin                                                       6.12.0                                    UnknownPackage                   
-qtquickcontrols2fluentwinui3styleplugin                                                           6.12.0                                    UnknownPackage                   
-qtquickcontrols2fusionstyleimplplugin                                                             6.12.0                                    UnknownPackage                   
-qtquickcontrols2fusionstyleplugin                                                                 6.12.0                                    UnknownPackage                   
-qtquickcontrols2imaginestyleimplplugin                                                            6.12.0                                    UnknownPackage                   
-qtquickcontrols2imaginestyleplugin                                                                6.12.0                                    UnknownPackage                   
-qtquickcontrols2implplugin                                                                        6.12.0                                    UnknownPackage                   
-qtquickcontrols2materialstyleimplplugin                                                           6.12.0                                    UnknownPackage                   
-qtquickcontrols2materialstyleplugin                                                               6.12.0                                    UnknownPackage                   
+qdbuscpp2xml                                                                                      6.12.1                                    UnknownPackage                   
+qdbusxml2cpp                                                                                      6.12.1                                    UnknownPackage                   
+qlalr                                                                                             6.12.1                                    UnknownPackage                   
+qmake                                                                                             6.12.1                                    UnknownPackage                   
+qml_tool                                                                                          6.12.1                                    UnknownPackage                   
+qmlaotstats                                                                                       6.12.1                                    UnknownPackage                   
+qmlcachegen                                                                                       6.12.1                                    UnknownPackage                   
+qmlcontextpropertydump                                                                            6.12.1                                    UnknownPackage                   
+qmldom                                                                                            6.12.1                                    UnknownPackage                   
+qmleasing                                                                                         6.12.1                                    UnknownPackage                   
+qmlfolderlistmodelplugin                                                                          6.12.1                                    UnknownPackage                   
+qmlformat                                                                                         6.12.1                                    UnknownPackage                   
+qmlimportscanner                                                                                  6.12.1                                    UnknownPackage                   
+qmljsrootgen                                                                                      6.12.1                                    UnknownPackage                   
+qmllint                                                                                           6.12.1                                    UnknownPackage                   
+qmllocalstorageplugin                                                                             6.12.1                                    UnknownPackage                   
+qmlls                                                                                             6.12.1                                    UnknownPackage                   
+qmlplugin                                                                                         6.12.1                                    UnknownPackage                   
+qmlplugindump                                                                                     6.12.1                                    UnknownPackage                   
+qmlpreview                                                                                        6.12.1                                    UnknownPackage                   
+qmlprofiler                                                                                       6.12.1                                    UnknownPackage                   
+qmlscene                                                                                          6.12.1                                    UnknownPackage                   
+qmlsettingsplugin                                                                                 6.12.1                                    UnknownPackage                   
+qmlshapesplugin                                                                                   6.12.1                                    UnknownPackage                   
+qmltc                                                                                             6.12.1                                    UnknownPackage                   
+qmltestrunner                                                                                     6.12.1                                    UnknownPackage                   
+qmltime                                                                                           6.12.1                                    UnknownPackage                   
+qmltyperegistrar                                                                                  6.12.1                                    UnknownPackage                   
+qmlwavefrontmeshplugin                                                                            6.12.1                                    UnknownPackage                   
+qmlxmllistmodelplugin                                                                             6.12.1                                    UnknownPackage                   
+qquicklayoutsplugin                                                                               6.12.1                                    UnknownPackage                   
+qquickvectorimagehelpersplugin                                                                    6.12.1                                    UnknownPackage                   
+qquickvectorimageplugin                                                                           6.12.1                                    UnknownPackage                   
+qt6-base                                                                                          6.12.1-1                                  alpm                             
+qt6-declarative                                                                                   6.12.1-1                                  alpm                             
+qt6-imageformats                                                                                  6.12.1-1                                  alpm                             
+qt6-svg                                                                                           6.12.1-1                                  alpm                             
+qt6-translations                                                                                  6.12.1-1                                  alpm                             
+qt6-wayland                                                                                       6.12.1-1                                  alpm                             
+qtbase                                                                                            6.12.1+dirty                              UnknownPackage                   
+qtdeclarative                                                                                     6.12.1                                    UnknownPackage                   
+qtimageformats                                                                                    6.12.1                                    UnknownPackage                   
+qtpaths                                                                                           6.12.1                                    UnknownPackage                   
+qtqmlcoreplugin                                                                                   6.12.1                                    UnknownPackage                   
+qtquick2plugin                                                                                    6.12.1                                    UnknownPackage                   
+qtquickcontrols2basicstyleimplplugin                                                              6.12.1                                    UnknownPackage                   
+qtquickcontrols2basicstyleplugin                                                                  6.12.1                                    UnknownPackage                   
+qtquickcontrols2fluentwinui3styleimplplugin                                                       6.12.1                                    UnknownPackage                   
+qtquickcontrols2fluentwinui3styleplugin                                                           6.12.1                                    UnknownPackage                   
+qtquickcontrols2fusionstyleimplplugin                                                             6.12.1                                    UnknownPackage                   
+qtquickcontrols2fusionstyleplugin                                                                 6.12.1                                    UnknownPackage                   
+qtquickcontrols2imaginestyleimplplugin                                                            6.12.1                                    UnknownPackage                   
+qtquickcontrols2imaginestyleplugin                                                                6.12.1                                    UnknownPackage                   
+qtquickcontrols2implplugin                                                                        6.12.1                                    UnknownPackage                   
+qtquickcontrols2materialstyleimplplugin                                                           6.12.1                                    UnknownPackage                   
+qtquickcontrols2materialstyleplugin                                                               6.12.1                                    UnknownPackage                   
 qtquickcontrols2materialstyleplugin_Attribution_shadow_angular_material                           unknown                                   UnknownPackage                   
-qtquickcontrols2nativestyleplugin                                                                 6.12.0                                    UnknownPackage                   
-qtquickcontrols2plugin                                                                            6.12.0                                    UnknownPackage                   
-qtquickcontrols2universalstyleimplplugin                                                          6.12.0                                    UnknownPackage                   
-qtquickcontrols2universalstyleplugin                                                              6.12.0                                    UnknownPackage                   
-qtquickdialogs2quickimplplugin                                                                    6.12.0                                    UnknownPackage                   
-qtquickdialogsplugin                                                                              6.12.0                                    UnknownPackage                   
-qtquickshapesdesignhelpersplugin                                                                  6.12.0                                    UnknownPackage                   
-qtquicktemplates2plugin                                                                           6.12.0                                    UnknownPackage                   
-qtsvg                                                                                             6.12.0                                    UnknownPackage                   
-qttranslations                                                                                    6.12.0                                    UnknownPackage                   
-qtwayland                                                                                         6.12.0                                    UnknownPackage                   
-qtwaylandscanner                                                                                  6.12.0                                    UnknownPackage                   
-quicktooling                                                                                      6.12.0                                    UnknownPackage                   
-quickwindow                                                                                       6.12.0                                    UnknownPackage                   
-qvkgen                                                                                            6.12.0                                    UnknownPackage                   
-qwaylandcompositorplugin                                                                          6.12.0                                    UnknownPackage                   
+qtquickcontrols2nativestyleplugin                                                                 6.12.1                                    UnknownPackage                   
+qtquickcontrols2plugin                                                                            6.12.1                                    UnknownPackage                   
+qtquickcontrols2universalstyleimplplugin                                                          6.12.1                                    UnknownPackage                   
+qtquickcontrols2universalstyleplugin                                                              6.12.1                                    UnknownPackage                   
+qtquickdialogs2quickimplplugin                                                                    6.12.1                                    UnknownPackage                   
+qtquickdialogsplugin                                                                              6.12.1                                    UnknownPackage                   
+qtquickshapesdesignhelpersplugin                                                                  6.12.1                                    UnknownPackage                   
+qtquicktemplates2plugin                                                                           6.12.1                                    UnknownPackage                   
+qtsvg                                                                                             6.12.1                                    UnknownPackage                   
+qttranslations                                                                                    6.12.1                                    UnknownPackage                   
+qtwayland                                                                                         6.12.1                                    UnknownPackage                   
+qtwaylandscanner                                                                                  6.12.1                                    UnknownPackage                   
+quicktooling                                                                                      6.12.1                                    UnknownPackage                   
+quickwindow                                                                                       6.12.1                                    UnknownPackage                   
+qvkgen                                                                                            6.12.1                                    UnknownPackage                   
+qwaylandcompositorplugin                                                                          6.12.1                                    UnknownPackage                   
 raqm                                                                                              0.11.0                                    python                           
 rav1e                                                                                             0.8.1-3                                   alpm                             
-rcc                                                                                               6.12.0                                    UnknownPackage                   
+rcc                                                                                               6.12.1                                    UnknownPackage                   
 readline                                                                                          8.3.6-1                                   alpm                             
 requests                                                                                          2.34.2                                    python                           
 resolvelib                                                                                        1.2.1                                     python                           
@@ -1182,10 +1178,10 @@ setuptools                                                                      
 shaderc                                                                                           2026.4-1                                  alpm                             
 shadow                                                                                            4.20.0.arch1-1                            alpm                             
 shared-mime-info                                                                                  2.5.1-2                                   alpm                             
-sharedimageplugin                                                                                 6.12.0                                    UnknownPackage                   
+sharedimageplugin                                                                                 6.12.1                                    UnknownPackage                   
 sigs.k8s.io/json                                                                                  v0.0.0-20250730193827-2d320260d730        go-module       (+1 duplicate)   
 sigs.k8s.io/yaml                                                                                  v1.6.0                                    go-module       (+1 duplicate)   
-simdutf                                                                                           9.3.0-1                                   alpm                             
+simdutf                                                                                           9.3.2-1                                   alpm                             
 snappy                                                                                            1.3.1-1                                   alpm                             
 sndio                                                                                             1.11.0-1                                  alpm                             
 source-highlight                                                                                  3.1.9-19                                  alpm                             
@@ -1204,9 +1200,9 @@ stdlib                                                                          
 stdlib                                                                                            go1.27.2-X:nodwarf5                       go-module       (+3 duplicates)  
 stdlib                                                                                            go1.27.4-X:nodwarf5                       go-module       (+4 duplicates)  
 sudo                                                                                              1.9.17.p2-7                               alpm                             
-svgtoqml                                                                                          6.12.0                                    UnknownPackage                   
+svgtoqml                                                                                          6.12.1                                    UnknownPackage                   
 svt-av1                                                                                           4.3.0-1                                   alpm                             
-syncqt                                                                                            6.12.0                                    UnknownPackage                   
+syncqt                                                                                            6.12.1                                    UnknownPackage                   
 systemd                                                                                           262.2-1                                   alpm                             
 systemd-libs                                                                                      239-82.el8_10.19                          rpm                              
 systemd-libs                                                                                      262.2-1                                   alpm                             
@@ -1214,22 +1210,22 @@ tags.cncf.io/container-device-interface                                         
 tags.cncf.io/container-device-interface/specs-go                                                  v1.1.1                                    go-module       (+1 duplicate)   
 tar                                                                                               1.35-5                                    alpm                             
 tdb                                                                                               1.4.15-2                                  alpm                             
-telegram-desktop                                                                                  7.4.6-1                                   alpm                             
+telegram-desktop                                                                                  7.4.6-3                                   alpm                             
 texinfo                                                                                           7.3-3                                     alpm                             
 tinysparql                                                                                        3.12.0-1                                  alpm                             
 tlottie                                                                                           1.0.6-1                                   alpm                             
 tomli                                                                                             2.4.1                                     python                           
 tomli-w                                                                                           1.2.0                                     python                           
 tpm2-tss                                                                                          4.2.2s-1                                  alpm                             
-tracegen                                                                                          6.12.0                                    UnknownPackage                   
-tracepointgen                                                                                     6.12.0                                    UnknownPackage                   
+tracegen                                                                                          6.12.1                                    UnknownPackage                   
+tracepointgen                                                                                     6.12.1                                    UnknownPackage                   
 truststore                                                                                        0.10.4                                    python                           
 tslib                                                                                             1.24-1                                    alpm                             
 ttf-liberation                                                                                    2.1.5-2                                   alpm                             
 typing-extensions                                                                                 4.16.0                                    python                           
 typing-inspection                                                                                 0.4.5                                     python                           
 tzdata                                                                                            2026f-1                                   alpm                             
-uic                                                                                               6.12.0                                    UnknownPackage                   
+uic                                                                                               6.12.1                                    UnknownPackage                   
 urllib3                                                                                           2.7.0                                     python                           
 util-linux                                                                                        2.42.4-1                                  alpm                             
 util-linux-libs                                                                                   2.42.4-1                                  alpm                             
@@ -1245,7 +1241,7 @@ vulkan-intel                                                                    
 vulkan-mesa-implicit-layers                                                                       1:26.3.1-2                                alpm                             
 vulkan-radeon                                                                                     1:26.3.1-2                                alpm                             
 vulkan-tools                                                                                      1.4.363.0-1                               alpm                             
-wasmdeployqt                                                                                      6.12.0                                    UnknownPackage                   
+wasmdeployqt                                                                                      6.12.1                                    UnknownPackage                   
 watchdog                                                                                          7.1.0                                     python                           
 watchfiles                                                                                        1.3.0                                     python                           
 wayland                                                                                           1.26.0-1                                  alpm                             
@@ -1259,7 +1255,7 @@ wl-clipboard                                                                    
 wlr-randr                                                                                         0.5.0-1                                   alpm                             
 wlroots0.20                                                                                       0.20.2-1                                  alpm                             
 woff2                                                                                             1.0.2-7                                   alpm                             
-workerscriptplugin                                                                                6.12.0                                    UnknownPackage                   
+workerscriptplugin                                                                                6.12.1                                    UnknownPackage                   
 x264                                                                                              3:0.165.r3222.b35605a-2                   alpm                             
 x265                                                                                              4.3-1                                     alpm                             
 xcb-proto                                                                                         1.17.0-4                                  alpm                             
